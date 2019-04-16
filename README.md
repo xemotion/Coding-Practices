@@ -13,3 +13,26 @@ pip install
 ```
 
 
+
+
+mysql install 
+
+schema 
+
+this is jira issue wbs-gantt chart for 3-hierarchical releation ( this is only related to and will be filtered by issue type) 
+
+|issueKey| parent| child | dependency | team | summary | status | version | 
+status is only 3(open, in progress, closed) 
+
+---> total count of issues 
+
+| totalCount | open  | closed | 
+
+
+---> 
+levels of team or version 
+---> 
+status bar -> is colored by status's color (closed is green, open is just yellow, and) 
+
+
+-->
